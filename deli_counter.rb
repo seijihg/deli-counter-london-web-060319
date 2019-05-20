@@ -21,5 +21,5 @@ def take_a_number(array, name)
   else
     array.push(name)
   end
-  
+
 end
