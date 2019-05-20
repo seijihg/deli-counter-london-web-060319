@@ -16,5 +16,5 @@ end
 
 
 def take_a_number(array, name)
-  puts array
+  puts "Welcome, #{name}. You are number #{array[-1]} in line."
 end
